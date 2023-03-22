@@ -9,9 +9,9 @@
 ### You titles | You titles | You titles 
 
 - 🧐 I’m currently working on [you work](https://brunomarcosluz.github.io./)
-- 🌱 I’m currently specializing in 'Your Area'.
-- 💬 Ask me about: 'You specializations'
-- 📫 How to reach me: [@pasteyourmediahere](https://twitter.com/brunomarcosluz)
+- 🌱 I’m currently specializing in 'Developer front and DevOps'.
+- 💬 Ask me about: 'Design web, DataBase and develop WebSite'
+- 📫 How to reach me: [@pasteyourmediahere](https://www.instagram.com/a__pedrao/)
 
 ## 🤝 Follow my work on
 
@@ -33,8 +33,8 @@
 <img align="left" alt="JS"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="VS Code"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="SQL"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-
-<img align="left" alt="AWS"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"/>
+<img align="left" alt="AWS"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
+<img align="left" alt="Python"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
 <br>
 <br/>
@@ -43,10 +43,9 @@
 
 [comment]: <> (Here i use the vercel api, change the references in the url bellow)
 
-<a href="https://github.com/brunomarcosluz/Jornada-Ninja-Web">
+<a href="https://github.com/flavioo61/Port>
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunomarcosluz&repo=Jornada-Ninja-Web&title_color=08fc28&text_color=08fc28&icon_color=08fc28&bg_color=000000"/>
 </a>
 
-<a href="https://github.com/brunomarcosluz/flutter-master-dev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunomarcosluz&repo=flutter-master-dev&title_color=08fc28&text_color=08fc28&icon_color=08fc28&bg_color=000000"
+[comment]:<a href="https://github.com/brunomarcosluz/flutter-master-dev"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunomarcosluz&repo=flutter-master-dev&title_color=08fc28&text_color=08fc28&icon_color=08fc28&bg_color=000000"
 </a>
